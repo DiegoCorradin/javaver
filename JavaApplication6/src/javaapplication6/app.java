@@ -3,19 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication6;/**
-package
+package javaapplication6;
+
+/**
+ *
  * @author Utente
  */
-public class JavaApplication6 {
-
-    /**
-     * @param args the command line arguments
-     */
-    final Runner runner = new Runner();
-    
-    public static void main(String[] args) {
+public class app {
+    private static void producer(){
         
     }
     
+    private static void consumer(){
+        
+    }
 }
